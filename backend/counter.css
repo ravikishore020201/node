@@ -1,0 +1,38 @@
+#Display{
+    color:white; 
+    font-weight: 100;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding-left: 25%; 
+    
+
+}
+.title{
+    color: crimson;
+    padding-left: 43%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#input{
+    padding-left: 40%;
+}
+#button1{
+    color:black;
+    display: inline-block;
+    font-size: 16px;
+    background-color:aqua;
+}
+#ul1{
+    color:fuchsia;
+    font-size: 25px;
+    list-style-type: none;
+    display:flex;
+    
+    
+}
+li{
+    padding: 15px;
+    background-color:black;  
+}
+#dateTime{
+    background-color:cornflowerblue;
+    font-size: 20px;
+}
